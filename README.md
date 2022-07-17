@@ -21,7 +21,7 @@ Select a branch to get started!
 ## Features
 
 🔥 These labs are completely FREE!!
-🔥 We have in person one one one traning after 5pm Check us out
+🔥 We have in person one on one traning after 5pm Check us out
 🔥 We also help with interview prep, resume writing, social media strategies✨Get everything you need with us!✨
 
 ## Tech
