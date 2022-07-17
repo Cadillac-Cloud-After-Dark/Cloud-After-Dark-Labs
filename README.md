@@ -2,9 +2,10 @@
   _Powered by www.cloudafterdark.com_ 💪🏾⛅️🤓
  
 
- ## Video
 
-https://www.youtube.com/watch?v=sULLkgE_knI
+https://user-images.githubusercontent.com/109482212/179423426-ad4c19fa-762c-445a-a422-8cd0fb538c39.mp4
+
+
 
 
 Cloud After Dark is a different approach to learning cloud. We training working adults who have zero experience in cloud and help them get their AWS associate level cert in addition to learning Jira, Git, Github, Linux, Bash. Docker, Terraform and the list goes on...
