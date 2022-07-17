@@ -1,10 +1,10 @@
 # Welcome to Cloud After Dark ⛅️ Labs!
   _Powered by www.cloudafterdark.com_ 💪🏾⛅️🤓
  
- ![Screenshot](cad.jpeg)
- 
 
+ ## Video
 
+https://www.youtube.com/watch?v=sULLkgE_knI
 
 
 Cloud After Dark is a different approach to learning cloud. We training working adults who have zero experience in cloud and help them get their AWS associate level cert in addition to learning Jira, Git, Github, Linux, Bash. Docker, Terraform and the list goes on...
