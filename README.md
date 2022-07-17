@@ -1,8 +1,9 @@
 # Welcome to Cloud After Dark ⛅️ Labs!
+  _Powered by www.cloudafterdark.com_ 💪🏾⛅️🤓
  
  ![Screenshot](cad.jpeg)
  
-  _Powered by www.cloudafterdark.com_ 💪🏾⛅️🤓
+
 
 
 
