@@ -17,4 +17,5 @@ Command:
 sudo useradd "UserName"
 
 
-![Useradd](https://user-images.githubusercontent.com/109482212/179628577-a73d506d-87df-475b-8732-025e9fc18612.jpg)
+
+![Useradd](https://user-images.githubusercontent.com/109482212/179628702-74700444-f33d-400a-b916-7e83418db6ff.jpg)
