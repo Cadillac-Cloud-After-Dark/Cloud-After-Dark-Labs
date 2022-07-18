@@ -5,7 +5,9 @@ Linux was designed to allow mulitple users to gain access to the system and file
 There are three different classes of users:
 
 🥸 The file owner.
+
 🏠 The group members.
+
 🧍🏾 Others.
 
 ## Types of file permissions
