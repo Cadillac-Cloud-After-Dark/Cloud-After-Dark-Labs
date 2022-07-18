@@ -20,6 +20,22 @@ Most of the tools that you are going to learn in these labs live on top of Linux
 
 If you are going the DevOps route automating various process will be a part of your job. Although Bash scripting isn't an OOP (Object-oriented programming languge) it is still useful and powerful when it comes to automating in Linux/Unix.
 
+
+## Setting up your machine 🖥
+
+If you don't have access to a command line system (mac) the eaisest way to get started is:
+
+🔥Windows - Install [WSL] 
+
+OR:
+
+🔥Spin up a Linux VM in [AWS]/[GCP]/[AZURE]
+
+OR:
+
+🔥If you have [Docker] spin up a Linux container
+
+
 Happy learning!
 
 
@@ -28,5 +44,10 @@ Happy learning!
 [Linus Torvalds]: <https://en.wikipedia.org/wiki/Linus_Torvalds>
 [Richard Stallman]: <https://en.wikipedia.org/wiki/Linus_Torvalds](https://en.wikipedia.org/wiki/Richard_Stallman>
 [GNU]: <https://en.wikipedia.org/wiki/GNU_Project>
+[WSL]: <https://docs.microsoft.com/en-us/windows/wsl/install>
+[AWS]: <https://aws.amazon.com/account/>
+[GCP]: <https://console.cloud.google.com/>
+[AZURE]: <https://azure.microsoft.com/en-us/get-started/azure-portal/>
+[Docker]: ,https://hub.docker.com/_/ubuntu.
 
  
