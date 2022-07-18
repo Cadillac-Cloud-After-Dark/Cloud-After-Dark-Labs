@@ -12,3 +12,9 @@ In this lab you will create a user.
 
 Let's create a user!
 
+Command: 
+
+sudo useradd "UserName"
+
+
+![Useradd](https://user-images.githubusercontent.com/109482212/179628577-a73d506d-87df-475b-8732-025e9fc18612.jpg)
