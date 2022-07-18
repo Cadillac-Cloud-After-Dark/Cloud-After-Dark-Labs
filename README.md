@@ -26,17 +26,19 @@ If you are going the DevOps route automating various process will be a part of y
 
 ## Setting up your machine 🖥
 
+For these labs we will be using Ubuntu which is a Debian flavor of Linux (using an EC2 on AWS).
+
 If you don't have access to a command line system (mac) the eaisest way to get started is:
 
-🔥Windows - Install [WSL] 
+🔥Windows - Install Ubuntu [WSL] 
 
 OR:
 
-🔥Spin up a Linux VM in [AWS]/[GCP]/[AZURE]
+🔥Spin up a Ubuntu VM in [AWS]/[GCP]/[AZURE]
 
 OR:
 
-🔥If you have [Docker] spin up a Linux container
+🔥If you have [Docker] spin up a Ubuntu container
 
 
 Happy learning!
