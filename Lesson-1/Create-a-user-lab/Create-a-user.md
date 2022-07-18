@@ -30,8 +30,11 @@ In Ubuntu you can see all users by typing cat /etc/passwd. As you can see all us
 
 Let's break this command down:
 "cat" 🙀 - The cat command reads data from the file and outputs the contents to your terminal. 
+
 /etc - is a directory. the /etc directory is where a Linux system's configuration files live.
+
 /passwd - is the directory that holds information about system users.
+
 
 As you can see I can see the user I just created at the bottom of the screen.
 
