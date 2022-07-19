@@ -29,11 +29,12 @@ Usually this will prompt you for a password.
 
 ![rootuser](https://user-images.githubusercontent.com/109482212/179656946-84968f6c-2565-4bad-b7e5-08ba7927ccc7.jpg)
 
-Notice how the user changes to "root".
+Notice how the user changes from "ubuntu" to "root".
 
 Let's take a closer look 👀 at this command:
 
 👉🏾 sudo - means superuser do 
+
 👉🏾 su - means switch user
 
 
