@@ -41,4 +41,37 @@ A closer look 👀:
 
 ## Verify your created Group
 
+Congrats! In the step above you created a new group using the groupadd command. Now let's verify that we can see 👀 your group in your system. In Ubuntu you can see all groups by typing:
+
+💁🏾‍♂️ cat /etc/group
+
+As you can see all groups live in the /etc/group directory (in Linux a directory is the equivelent to a folder 🗂 in windows...but you know this already 🤓).
+
+
+☞ "cat" 🙀 - The cat command reads data from the file and outputs the contents to your terminal.
+
+☞ /etc - is a directory. the /etc directory is where a Linux system's configuration files live.
+
+☞ /group - is the directory that holds information about system groups.
+
+As you can see I just ran the cat /etc/group command, however there are several groups that are created by default.
+
+![variousgroups](https://user-images.githubusercontent.com/109482212/179643342-a2f5d384-2d54-430b-b7a1-793ee6f5286f.jpg)
+
+If you scroll down to the bottom you can see your newly created group at the end, HOWEVER there is an easier way to search through large files.
+
+🎺 Introducing the grep command 🎺
+
+![grepgroupadd](https://user-images.githubusercontent.com/109482212/179643598-06a52e4e-66a5-4356-a4b6-bcb43cc749e1.jpg)
+
+The grep command can be used to search for patterns in a file or output.
+
+In front of the grep command you see "|" this is referred to as a "pipe". The pipe command lets you sends the output of one command to another
+
+## Group entry format
+
+
+
+
+
 
