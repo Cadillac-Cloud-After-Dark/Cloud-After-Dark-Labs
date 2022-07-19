@@ -74,6 +74,20 @@ CadillacBurgess - UserName
 
 👉🏾 :/bin/bash - The absolute path of a command or shell 
 
+## Deleting a user
+
+You can use the userdel command to delete a group in Linux
+
+![deluser](https://user-images.githubusercontent.com/109482212/179645417-e29624c7-edf5-4cfa-ade7-1dc96ca31e00.jpg)
+
+Let's take a closer look 🕵🏾‍♂️ at the format of this command:
+
+👉🏾 sudo - allows us to run this command with root privileges
+
+👉🏾 userdel - command to delete group
+
+👉🏾 CadillacBurgess - the user name we want to delete
+
 
 
 
