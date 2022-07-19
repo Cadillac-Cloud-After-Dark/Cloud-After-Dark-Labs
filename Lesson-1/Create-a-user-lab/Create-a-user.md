@@ -18,6 +18,15 @@ Command:
 
 sudo useradd "UserName"
 
+A closer look 👀:
+
+⭐️ sudo - Allows you to run a single command as root
+
+⭐️ useradd - creates a user
+
+⭐️ UserName - Name of your user
+
+
 
 
 ![ubuntuuseradd](https://user-images.githubusercontent.com/109482212/179629117-5ff73760-8dca-42bd-831b-2100201fc7aa.jpg)
