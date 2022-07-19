@@ -29,11 +29,20 @@ The echo command can also be used as a handy tool to quickly create or modify a 
 
 Let's take a closer look 🧐 at this command:
 
-echo "Today is a great day" > today.txt
+👉🏾 echo "Today is a great day" > today.txt
 
-echo - Prints out text to the terminal
-"" - Text we want to print or add to a file
-">" - this symbol allows us to redirect the output of the echo command to a file
-today.txt - Name of the file we want to create
+👉🏾 echo - Prints out text to the terminal
+
+👉🏾 "" - Text we want to print or add to a file
+
+👉🏾 ">" - this symbol allows us to redirect the output of the echo command to a file
+
+👉🏾 today.txt - Name of the file we want to create
+
+&nbsp;
+
+🚨🚨 Also note that only using 1 redirect symbol ">" will either create a new file OR overwrite an exsisting file. If you already have a file created and you use the echo command along with only 1 ">" symbol, the contents of the file will get replaced with whatever the output of the echo command is. 🚨🚨
+
+&nbsp;
 
 
