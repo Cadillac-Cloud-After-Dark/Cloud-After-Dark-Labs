@@ -10,6 +10,33 @@ In this lab you will create a user.
 
 👨🏾‍💻 Each user gets assigned an unique ID.
 
+## Root user
+
+A root user in Linux is sometimes referred to as a "super user". This would be similar to an "administrator" in the windows enviornment. It is a user account for administrative purposes. Root users have the highest access rights on the system. Root users accounts are simply referred to as "root".
+
+Remember we had to type in "sudo" in previous labs in order to have the correct permission to run a command? If we were the root user we wouldn't have to add "sudo" to our command everytime.
+
+🚨Using root user can be dangerous.🚨 Superusers can do anything. Root should not be used unless absolutely necessary.
+
+
+You can become root user by typing in the command: 
+
+
+sudo su
+
+
+Usually this will prompt you for a password.
+
+![rootuser](https://user-images.githubusercontent.com/109482212/179656946-84968f6c-2565-4bad-b7e5-08ba7927ccc7.jpg)
+
+Notice how the user changes to "root".
+
+Let's take a closer look 👀 at this command:
+
+👉🏾 sudo - means superuser do 
+👉🏾 su - means switch user
+
+
 
 ## Create a User
 Let's create a user!
@@ -87,6 +114,8 @@ Let's take a closer look 🕵🏾‍♂️ at the format of this command:
 👉🏾 userdel - command to delete group
 
 👉🏾 CadillacBurgess - the user name we want to delete
+
+
 
 
 
