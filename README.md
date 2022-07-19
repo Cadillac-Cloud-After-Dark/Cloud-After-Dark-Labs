@@ -24,7 +24,8 @@ When using Linux you can choose to install your applications with mainly 2 diffe
 Which one should you use? Well that depends. Different flavors of Linux are already preconfigured to use different package managers. 
 
 
-Most popular Debian supported flavors:
+
+Most popular Debian supported flavors 💽:
 
 👨🏾‍💻 Ubuntu
 
@@ -46,7 +47,8 @@ Most popular Debian supported flavors:
 
 
 
-Most popular RPM supported flavors:
+
+Most popular RPM supported flavors 💽:
 
 👨🏾‍💻 Redhat
 
