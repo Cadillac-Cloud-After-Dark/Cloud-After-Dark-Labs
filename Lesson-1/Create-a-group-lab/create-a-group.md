@@ -89,8 +89,11 @@ You can use the delgroup command to delete a group in Linux
 Let's take a closer look at the format of this command:
 
 👉🏾 sudo - allows us to run this command with root privileges
+
 👉🏾 delgroup - command to delete group
+
 👉🏾 CloudAfteDark - the group name we want to delete
+
 
 
 
