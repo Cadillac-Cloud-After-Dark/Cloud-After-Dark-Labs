@@ -71,6 +71,11 @@ In front of the grep command you see "|" this is referred to as a "pipe". The pi
 
 ## Group entry format
 
+Let's look at the format of the group entry above:
+
+✅ Cloudafterdark - Groupname
+✅ :x - Usually the space for the password. In this case it is not used
+✅ :1002 - Group ID 
 
 
 
