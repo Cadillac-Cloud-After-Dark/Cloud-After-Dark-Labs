@@ -39,14 +39,18 @@ From the chart we can see we can use letters or numbers to change permissions.
 
 chmod 777 "filename" and chmod +rwxrwxrwx "filename" would give me the exact same results.
 
+
 ![numbersandletters](https://user-images.githubusercontent.com/109482212/179662107-86bbc2bc-228b-4420-82f1-e5d79eab4a1f.jpg)
+
 
 Let's take a closer look 🕵🏾‍♂️ shall we???
 
 
-chmod - allows a user to change the permissions on a file
+👉🏾 chmod - allows a user to change the permissions on a file
 
-777 - tells the system I want to be able to read/write/excute for the permissions classes: Users groups other.
+👉🏾 777 - tells the system I want to be able to read/write/excute for the permissions classes: Users groups other.
+
+👉🏾 filename - name of file or directory you want to change permissions on
 
 ![777](https://user-images.githubusercontent.com/109482212/179662784-2720dc00-2a55-46cf-b31d-35ead79a2f15.jpg)
 
