@@ -37,7 +37,13 @@ A closer look 👀:
 
 ⭐️ GroupName - Name of your group
 
+&nbsp;
+&nbsp;
+
 ![groupadd](https://user-images.githubusercontent.com/109482212/179641969-af90d302-4df9-4f66-ac92-17003038d57c.jpg)
+
+&nbsp;
+&nbsp;
 
 ## Verify your created Group
 
@@ -56,7 +62,13 @@ As you can see all groups live in the /etc/group directory (in Linux a directory
 
 As you can see I just ran the cat /etc/group command, however there are several groups that are created by default.
 
+&nbsp;
+&nbsp;
+
 ![variousgroups](https://user-images.githubusercontent.com/109482212/179643342-a2f5d384-2d54-430b-b7a1-793ee6f5286f.jpg)
+
+&nbsp;
+&nbsp;
 
 If you scroll down to the bottom you can see your newly created group at the end, HOWEVER there is an easier way to search through large files.
 
@@ -67,7 +79,13 @@ The grep command can be used to search for patterns in a file or output.
 
 In front of the grep command you see "|" this is referred to as a "pipe". The pipe command lets you sends the output of one command to another
 
+&nbsp;
+&nbsp;
+
 ![grepgroupadd](https://user-images.githubusercontent.com/109482212/179643598-06a52e4e-66a5-4356-a4b6-bcb43cc749e1.jpg)
+
+&nbsp;
+&nbsp;
 
 ## Group entry format
 
