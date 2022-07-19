@@ -33,14 +33,14 @@ Select a branch to get started!
 These labs will include practice with:
 
 - [Linux] - A command line driven OS based on a kernel of the GNU/Linux operating system.
-- [Bash] - Bash is the shell, or command language interpreter, for the GNU operating system.
-- [Bash Scripting] - A way to automate repetitive tasks.
-- [Docker] - Docker is a software platform that allows you to build, test, and deploy applications.
-- [Jira] - Software development tool used by agile teams.
-- [Agile] - Agile is a group of software development methodologies based on iterative development.
-- [Terraform] - Terraform is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share.
-- [Git] - Git is a free and open source distributed version control system.
-- [Ansible] - A tool used for configuration management.
+- [Bash] - Bash is the shell, or command language interpreter, for the GNU operating system. 
+- [Bash Scripting] - A way to automate repetitive tasks. (coming soon) ⏱ 
+- [Docker] - Docker is a software platform that allows you to build, test, and deploy applications. (coming soon) ⏱
+- [Jira] - Software development tool used by agile teams. (coming soon) ⏱
+- [Agile] - Agile is a group of software development methodologies based on iterative development. (coming soon) ⏱
+- [Terraform] - Terraform is an infrastructure as code tool that lets you define both cloud and on-prem resources in human-readable configuration files that you can version, reuse, and share. (coming soon) ⏱
+- [Git] - Git is a free and open source distributed version control system. (coming soon) ⏱
+- [Ansible] - A tool used for configuration management. (coming soon) ⏱
 
 
    [Linux]: <https://www.linux.com/what-is-linux/>
