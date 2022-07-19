@@ -1,6 +1,6 @@
 ## Overview
 
-In this lab you will create a group in Linux 
+In this lab you will create a group in Linux.
 
 ## What is a group ?
 
