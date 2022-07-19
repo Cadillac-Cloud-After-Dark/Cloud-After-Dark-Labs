@@ -35,9 +35,21 @@ There are 2 ways to change permissions in Linux you can use numbers or letters..
 
 From the chart we can see we can use letters or numbers to change permissions.
 
-## Examples
+## You try
 
-chmod 777 "filename" and chmod +rwxrwxrwx "filename" would give me the exact same results.
+✅ Use the chmod 777 "filename" to change permissions on a file.
+
+✅ Now do a ls -l
+
+Notice the permissions change?
+
+✅ Next use the chmod +rwxrwxrwx "filename".
+
+Notice the permissions stayed the same.
+
+We can use either format to change the permissions on a file.
+
+
 
 
 ![numbersandletters](https://user-images.githubusercontent.com/109482212/179662107-86bbc2bc-228b-4420-82f1-e5d79eab4a1f.jpg)
@@ -53,5 +65,7 @@ Let's take a closer look 🕵🏾‍♂️ shall we???
 👉🏾 filename - name of file or directory you want to change permissions on
 
 ![777](https://user-images.githubusercontent.com/109482212/179662784-2720dc00-2a55-46cf-b31d-35ead79a2f15.jpg)
+
+## 
 
 
