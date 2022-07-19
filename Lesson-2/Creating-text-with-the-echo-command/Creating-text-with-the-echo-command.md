@@ -12,4 +12,5 @@ If you say something to a parrot it has the ability to repeat it back to you.
 
 &nbsp;
 &nbsp;
+
 As you can see from the command above echo will take anything that is between "" and print it out to the terminal.
