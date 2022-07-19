@@ -35,7 +35,7 @@ Let's take a closer look 🧐 at this command:
 
 👉🏾 "" - Text we want to print or add to a file
 
-👉🏾 ">" - this symbol allows us to redirect the output of the echo command to a file
+👉🏾 ">" - this symbol allows us to redirect the output of the echo command to a file. The system will create a new file or overwrite an existing file
 
 👉🏾 today.txt - Name of the file we want to create
 
@@ -45,4 +45,28 @@ Let's take a closer look 🧐 at this command:
 
 &nbsp;
 
+## Using the echo command to add a line to an existing file
 
+We can also use the echo command to append/add a line to an existing file.
+
+&nbsp;
+&nbsp;
+
+![echoappend](https://user-images.githubusercontent.com/109482212/179852746-7e07e201-7ef3-4813-b132-62c255dac53b.jpg)
+
+&nbsp;
+&nbsp;
+
+Let's take a closer look 🧐 at this command:
+
+👉🏾 echo "Friday will be a great day" >> today.txt
+
+👉🏾 echo - Prints out text to the terminal
+
+👉🏾 "" - Text we want to print or add to a file
+
+👉🏾 ">>" - this symbol allows us to redirect the output of the echo command to a file and adds the ouput to the end of the file.
+
+👉🏾 today.txt - Name of the file we want to create
+
+&nbsp;
