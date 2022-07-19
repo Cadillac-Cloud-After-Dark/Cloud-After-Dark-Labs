@@ -23,3 +23,9 @@ We can use the ls -l command to invoke the long list format. This is a fancy way
 
 
 ![image](https://user-images.githubusercontent.com/109482212/179657964-be2d9f70-a0bf-42c4-b203-4e65bbabafc8.png)
+
+## Changing permissions
+
+There are 2 ways to change permissions in Linux you can use numbers or letters.... What do I mean??
+
+ 
