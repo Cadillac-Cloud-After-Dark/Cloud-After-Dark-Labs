@@ -60,7 +60,7 @@ As you can see I just ran the cat /etc/group command, however there are several 
 
 If you scroll down to the bottom you can see your newly created group at the end, HOWEVER there is an easier way to search through large files.
 
-🎺 Introducing the grep command 🎺
+## 🎺 Introducing the grep command 🎺
 
 
 The grep command can be used to search for patterns in a file or output.
