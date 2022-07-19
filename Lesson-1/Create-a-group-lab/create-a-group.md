@@ -62,11 +62,12 @@ If you scroll down to the bottom you can see your newly created group at the end
 
 🎺 Introducing the grep command 🎺
 
-![grepgroupadd](https://user-images.githubusercontent.com/109482212/179643598-06a52e4e-66a5-4356-a4b6-bcb43cc749e1.jpg)
 
 The grep command can be used to search for patterns in a file or output.
 
 In front of the grep command you see "|" this is referred to as a "pipe". The pipe command lets you sends the output of one command to another
+
+![grepgroupadd](https://user-images.githubusercontent.com/109482212/179643598-06a52e4e-66a5-4356-a4b6-bcb43cc749e1.jpg)
 
 ## Group entry format
 
