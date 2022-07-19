@@ -38,3 +38,7 @@ A closer look 👀:
 ⭐️ GroupName - Name of your group
 
 ![groupadd](https://user-images.githubusercontent.com/109482212/179641969-af90d302-4df9-4f66-ac92-17003038d57c.jpg)
+
+## Verify your created Group
+
+
