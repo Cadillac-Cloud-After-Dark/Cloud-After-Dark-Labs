@@ -29,3 +29,4 @@ We can use the ls -l command to invoke the long list format. This is a fancy way
 There are 2 ways to change permissions in Linux you can use numbers or letters.... What do I mean??
 
  
+![chmod](https://user-images.githubusercontent.com/109482212/179661249-56c4c68a-2b10-4e89-add6-2eeaf1921d92.png)
