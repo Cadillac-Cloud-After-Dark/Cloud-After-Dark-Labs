@@ -26,7 +26,18 @@ We can use the ls -l command to invoke the long list format. This is a fancy way
 
 ## Changing permissions
 
+The chmod command allows a user to change the permissions on a file using either a symbolic or numeric mode.
+
 There are 2 ways to change permissions in Linux you can use numbers or letters.... What do I mean??
 
  
 ![chmod](https://user-images.githubusercontent.com/109482212/179661249-56c4c68a-2b10-4e89-add6-2eeaf1921d92.png)
+
+From the chart we can see we can use letters or numbers to change permissions.
+
+## Examples
+
+chmod 777 "filename" and chmod +rwxrwxrwx "filename" would give me the exact same results.
+![numbersandletters](https://user-images.githubusercontent.com/109482212/179662107-86bbc2bc-228b-4420-82f1-e5d79eab4a1f.jpg)
+
+
