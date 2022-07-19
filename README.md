@@ -22,7 +22,7 @@ Select a branch to get started!
 
 🔥 These labs are completely FREE!!
 
-🔥 These labs are meant to give an absolute beginner an entry point into various technologiesl
+🔥 These labs are meant to give an absolute beginner an entry point into various technologies.
 
 🔥 We have in person one on one traning after 5pm Check us out.
 
