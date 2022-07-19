@@ -33,7 +33,7 @@ echo "Today is a great day" > today.txt
 
 echo - Prints out text to the terminal
 "" - Text we want to print or add to a file
-> - this symbol allows us to redirect the output of the echo command to a file
+">" - this symbol allows us to redirect the output of the echo command to a file
 today.txt - Name of the file we want to create
 
 
