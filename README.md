@@ -61,6 +61,24 @@ Most popular RPM supported flavors 💽:
 
 👨🏾‍💻 Oracle Linux
 
+## Linux boot process
+
+Any operating system starts with a boot process. A boot process can be defined as a sequence of events that occur in order for the operating system to be avaiable. Linux is no different. There are 6 stages in the Linux boot process. 
+
+👉🏾 BIOS - Basic Input/Output System. The BIOS is responsible for running the boot loader program and checking the hard drive. Once the boot loader program is identitied and loaded into the system memory the BIOS defers to the boot loader program.
+
+👉🏾 Master Boot Record - MBR stands for Master Boot Record. The MBR is responsible for loading and starting the GRUB boot loader.
+
+👉🏾 GRUB - Stands for GNU GRand Unified Bootloader. This is the standard boot loader for all Linux systems. You can find the GRUB configuration file  here /boot/grub/grub.conf or /etc/grub.conf
+
+👉🏾 Kernel -  This is the brains of your operating system. The kernel executes the /sbin/init program.
+
+👉🏾 Init - Init reads the initialization file, /etc/inittab. This tells init to read the initial configuration script.
+
+👉🏾 Runlevel programs - Runlevels determine which programs can execute after the OS boots up.
+
+
+
 
 
 ## Why Linux is important
