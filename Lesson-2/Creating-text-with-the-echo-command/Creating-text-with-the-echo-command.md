@@ -39,6 +39,8 @@ Let's take a closer look 🧐 at this command:
 
 👉🏾 today.txt - Name of the file we want to create
 
+👉🏾 ls -l | grep today - lists the contents of the directory in the long listing format and searches for any filename with the word "today" in it.
+
 &nbsp;
 
 🚨🚨 Also note that only using 1 redirect symbol ">" will either create a new file OR overwrite an exsisting file. If you already have a file created and you use the echo command along with only 1 ">" symbol, the contents of the file will get replaced with whatever the output of the echo command is. 🚨🚨
@@ -68,5 +70,7 @@ Let's take a closer look 🧐 at this command:
 👉🏾 ">>" - this symbol allows us to redirect the output of the echo command to a file and adds the ouput to the end of the file.
 
 👉🏾 today.txt - Name of the file we want to create
+
+👉🏾 cat today.txt - Prints out the contents of the file today.txt
 
 &nbsp;
