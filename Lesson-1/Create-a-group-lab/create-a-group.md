@@ -79,6 +79,18 @@ Let's look at the format of the group entry above:
 
 ✅ :1002 - Group ID 
 
+## Deleting groups 🗑
+
+You can use the delgroup command to delete a group in Linux
+
+
+![delgroup](https://user-images.githubusercontent.com/109482212/179644885-c5e13b25-453d-48c7-bd26-0eefe3c2fa95.jpg)
+
+Let's take a closer look at the format of this command:
+
+👉🏾 sudo - allows us to run this command with root privileges
+👉🏾 delgroup - command to delete group
+👉🏾 CloudAfteDark - the group name we want to delete
 
 
 
