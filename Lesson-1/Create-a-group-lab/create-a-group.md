@@ -27,3 +27,6 @@ Let's create a group!
 Command: 
 
 sudo groupadd "GroupName"
+
+
+![groupadd](https://user-images.githubusercontent.com/109482212/179641969-af90d302-4df9-4f66-ac92-17003038d57c.jpg)
