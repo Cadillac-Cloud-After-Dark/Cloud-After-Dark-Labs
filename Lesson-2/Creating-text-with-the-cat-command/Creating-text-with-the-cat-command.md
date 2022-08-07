@@ -12,8 +12,11 @@ Let's take a look 🤓 at the command below:
 &nbsp;
 
 👉🏾 cat > Newfile1000.txt
+
 👉🏾 cat - In this command it tells the system you want to create an empty file
+
 👉🏾 ">" - Redirect the output of the cat command
+
 👉🏾 Newfile1000.txt - Tells the system you want to create an empty file with the name Newfile1000.txt
 
 
