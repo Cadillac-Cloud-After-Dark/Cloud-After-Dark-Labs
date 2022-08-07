@@ -16,7 +16,6 @@ Let's look 👀 at the command below:
 ![vicreate](https://user-images.githubusercontent.com/109482212/183311283-c639fff2-3dab-42ed-b802-fe5cdd5f4764.jpg)
 
 &nbsp;
-&nbsp;
 
 👉🏾 vi Sleep.txt
 
