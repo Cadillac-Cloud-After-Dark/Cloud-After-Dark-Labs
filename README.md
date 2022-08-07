@@ -33,7 +33,7 @@ Select a branch to get started!
 These labs will include practice with:
 
 - [Linux] - A command line driven OS based on a kernel of the GNU/Linux operating system.
-- [Bash] - Bash is the shell, or command language interpreter, for the GNU operating system. 
+- [Bash] - Bash is the shell, or command language interpreter, for the GNU operating system. (coming soon) ⏱ 
 - [Bash Scripting] - A way to automate repetitive tasks. (coming soon) ⏱ 
 - [Docker] - Docker is a software platform that allows you to build, test, and deploy applications. (coming soon) ⏱
 - [Jira] - Software development tool used by agile teams. (coming soon) ⏱
