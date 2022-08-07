@@ -26,8 +26,25 @@ Let's look 👀 at the command below:
 
 
 ## Common vi commands
-Vi is a great tool for creating text files with multiple lines.
+Vi is a great tool for creating text files 📝 with multiple lines.
 
 To inset text in vi press the "i" key. This will put you in INSERT mode. INSERT mode will allow you to add lines of text to a file. There will be an indicator at the bottom of the screen to confirm you are in insert mode.
 
 ![image](https://user-images.githubusercontent.com/109482212/183311467-cf3993b2-2354-4ff6-b024-e522a52693b6.png)
+
+🚨 Please not you cannot use your mouse in INSERT mode. You will have to move around with the arrow keys.
+
+## Saving your text in Vi
+Now that you have added some text to your file press the "esc" key. This will take you out of INSERT mode. You will notice that INSERT is no longer at the bottom of the screen. 
+
+No press shift + : . This will allow you to now tell Vi what you want to do with this file. You have a couple of options:
+
+👉🏾 q! + enter - will quit this vi session and not save the file
+
+👉🏾 wq! + enter - Will save or "write" the file and quit the editor
+
+![image](https://user-images.githubusercontent.com/109482212/183311745-59fe85b4-a9eb-4f6d-b4a2-234abb37bda5.png)
+
+Congrats! Now you know the basics of vi. Go try it for yourself. 💨
+
+
