@@ -63,7 +63,7 @@ Most popular RPM supported flavors 💽:
 
 ## Linux boot process
 
-Any operating system starts with a boot process. A boot process can be defined as a sequence of events that occur in order for the operating system to be avaiable. Linux is no different. There are 6 stages in the Linux boot process. 
+Every operating system starts with a boot process. A boot process can be defined as a sequence of events that occur in order for the operating system to be avaiable. Linux is no different. There are 6 stages in the Linux boot process. 
 
 👉🏾 BIOS - Basic Input/Output System. The BIOS is responsible for running the boot loader program and checking the hard drive. Once the boot loader program is identitied and loaded into the system memory the BIOS defers to the boot loader program.
 
