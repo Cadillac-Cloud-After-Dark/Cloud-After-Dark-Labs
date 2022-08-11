@@ -12,9 +12,9 @@ In this lab you will create a user.
 
 ## Root user
 
-A root user in Linux is sometimes referred to as a "super user". This would be similar to an "administrator" in the windows enviornment. It is a user account for administrative purposes. Root users have the highest access rights on the system. Root users accounts are simply referred to as "root".
+A root user in Linux is sometimes referred to as a "super user". This would be similar to an "administrator" in the windows environment. It is a user account for administrative purposes. Root users have the highest access rights on the system. Root users' accounts are simply referred to as "root".
 
-Remember we had to type in "sudo" in previous labs in order to have the correct permission to run a command? If we were the root user we wouldn't have to add "sudo" to our command everytime.
+Remember we had to type in "sudo" in previous labs in order to have the correct permission to run a command? If we were the root user we wouldn't have to add "sudo" to our command every time.
 
 🚨Using root user can be dangerous.🚨 Superusers can do anything. Root should not be used unless absolutely necessary.
 
@@ -67,7 +67,7 @@ In Ubuntu you can see all users by typing:
 
 💁🏾‍♂️ cat /etc/passwd
 
-As you can see all users live in the /etc/passwd directory (in Linux a directory is the equivelent to a folder 🗂 in windows).
+As you can see all users live in the /etc/passwd directory (in Linux a directory is the equivalent to a folder 🗂 in windows).
 
 Let's break this command down:
 
@@ -115,6 +115,7 @@ Let's take a closer look 🕵🏾‍♂️ at the format of this command:
 👉🏾 userdel - command to delete group
 
 👉🏾 CadillacBurgess - the user name we want to delete
+
 
 
 
