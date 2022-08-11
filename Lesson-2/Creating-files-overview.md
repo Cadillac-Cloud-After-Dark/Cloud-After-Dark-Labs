@@ -4,7 +4,7 @@ There are several different ways you can create text files in Linux, from cat to
 
 ## What is a text file
 
-If you are familar with Windows documents a text file in Linux is similar. The biggest difference it that in Linux the contents of a text file is raw, meaning there is no formatting. That means, no bold text, typescript, underlining etc.. Text files should end with a .txt. Text files do not support  any form of media such as videos, audio, or pictures. 
+If you are familiar with Windows documents a text file in Linux is similar. The biggest difference it that in Linux the contents of a text file is raw, meaning there is no formatting. That means, no bold text, typescript, underlining etc.. Text files should end with a .txt. Text files do not support  any form of media such as videos, audio, or pictures. 
 
 ## Commands
 
