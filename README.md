@@ -17,7 +17,7 @@ It's easy to get confused between UNIX and Linux because in a way they look and 
 
 ## Debian vs RPM
 
-When using Linux you can choose to install your applications with mainly 2 different package managers. A package manager keeps track of what software is installed on your machine. You can use a package manager to update/delete/add software on your machine. It's like the windows app store, but for Linux. The 2 most popular package managers are RPM (Redhat package manager) and Debian. 
+When using Linux you can choose to install your applications with mainly 2 different package managers. A package manager keeps track of what software is installed on your machine. You can use a package manager to update/delete/add software on your machine. It's like the Windows app store, but for Linux. The 2 most popular package managers are RPM (Redhat package manager) and Debian. 
 
 Which one should you use? Well that depends. Different flavors of Linux are already preconfigured to use different package managers. 
 
