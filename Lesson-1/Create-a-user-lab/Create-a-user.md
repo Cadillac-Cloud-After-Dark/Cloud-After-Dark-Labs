@@ -84,7 +84,7 @@ As you can see I can see the user I just created at the bottom of the screen.
 
 ## Passwd entry format
 
-No you're probably wondering that is all that crap behind the user name I just created??? Let's take a closer look 🕵🏾‍♂️ ....
+No you're probably wondering what is all that crap behind the user name I just created??? Let's take a closer look 🕵🏾‍♂️ ....
 
 
 
@@ -98,7 +98,7 @@ CadillacBurgess - UserName
 
 👉🏾 :1001 - Primary group ID a list of group ids can be found in the /etc/group file.
 
-👉🏾 :/home/CadillacBurgess - Users home directory. The path to the directory the user will be in when they log in.
+👉🏾 :/home/CadillacBurgess - User's home directory. The path to the directory the user will be in when they log in.
 
 👉🏾 :/bin/bash - The absolute path of a command or shell 
 
@@ -115,6 +115,7 @@ Let's take a closer look 🕵🏾‍♂️ at the format of this command:
 👉🏾 userdel - command to delete group
 
 👉🏾 CadillacBurgess - the user name we want to delete
+
 
 
 
