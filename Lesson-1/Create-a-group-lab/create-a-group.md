@@ -6,7 +6,7 @@ In this lab you will create a group in Linux.
 
 
 
-🏠 A group is like a container. You can put multiple users in groups who have need similar  permissions.
+🏠 A group is like a container. You can put multiple users in groups who need similar  permissions.
 
 🏠 Groups remove the burden of having to set permissions for each separate user. 
 
@@ -111,6 +111,7 @@ Let's take a closer look 👀 at the format of this command:
 👉🏾 delgroup - command to delete group
 
 👉🏾 CloudAfteDark - the group name we want to delete
+
 
 
 
