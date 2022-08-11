@@ -60,12 +60,13 @@ Let's take a closer look 🕵🏾‍♂️ shall we???
 
 👉🏾 chmod - allows a user to change the permissions on a file
 
-👉🏾 777 - tells the system I want to be able to read/write/excute for the permissions classes: Users groups other.
+👉🏾 777 - tells the system I want to be able to read/write/execute for the permissions classes: Users groups other.
 
 👉🏾 filename - name of file or directory you want to change permissions on
 
 ![777](https://user-images.githubusercontent.com/109482212/179662784-2720dc00-2a55-46cf-b31d-35ead79a2f15.jpg)
 
-## 
+
+
 
 
