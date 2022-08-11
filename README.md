@@ -24,9 +24,6 @@ Select a branch to get started!
 
 🔥 These labs are meant to give an absolute beginner an entry point into various technologies.
 
-🔥 We have in person one on one traning after 5pm Check us out.
-
-🔥 We also help with interview prep, resume writing, social media strategies✨Get everything you need with us!✨
 
 ## Tech
 
