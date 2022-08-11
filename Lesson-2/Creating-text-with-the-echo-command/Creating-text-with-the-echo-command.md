@@ -1,7 +1,7 @@
 ## The "echo" command
 
 
-The echo command in Linux is a built in command that prints out text to a terminal. You can think of the echo command like a parrot 🦜. 
+The echo command in Linux is a built-in command that prints out text to a terminal. You can think of the echo command like a parrot 🦜. 
 If you say something to a parrot it has the ability to repeat it back to you.
 
 
@@ -43,7 +43,7 @@ Let's take a closer look 🧐 at this command:
 
 &nbsp;
 
-🚨🚨 Also note that only using 1 redirect symbol ">" will either create a new file OR overwrite an exsisting file. If you already have a file created and you use the echo command along with only 1 ">" symbol, the contents of the file will get replaced with whatever the output of the echo command is. 🚨🚨
+🚨🚨 Also note that only using 1 redirect symbol ">" will either create a new file OR overwrite an existing file. If you already have a file created and you use the echo command along with only 1 ">" symbol, the contents of the file will get replaced with whatever the output of the echo command is. 🚨🚨
 
 &nbsp;
 
@@ -67,10 +67,12 @@ Let's take a closer look 🧐 at this command:
 
 👉🏾 "" - Text we want to print or add to a file
 
-👉🏾 ">>" - this symbol allows us to redirect the output of the echo command to a file and adds the ouput to the end of the file.
+👉🏾 ">>" - this symbol allows us to redirect the output of the echo command to a file and adds the output to the end of the file.
 
 👉🏾 today.txt - Name of the file we want to create
 
 👉🏾 cat today.txt - Prints out the contents of the file today.txt
 
 &nbsp;
+
+
