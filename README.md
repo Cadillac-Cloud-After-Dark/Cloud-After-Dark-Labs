@@ -23,7 +23,7 @@ Which one should you use? Well that depends. Different flavors of Linux are alre
 
 
 
-Most popular Debian supported flavors 💽:
+Most popular Debian supported flavors 💽: 
 
 👨🏾‍💻 Ubuntu
 
