@@ -6,9 +6,9 @@ In this lab you will create a group in Linux.
 
 
 
-🏠 A group is like a container. You can put mulitple users in groups who have need similar  permissions.
+🏠 A group is like a container. You can put multiple users in groups who have need similar  permissions.
 
-🏠 Groups remove the burden of having to set permssions for each seperate user. 
+🏠 Groups remove the burden of having to set permissions for each separate user. 
 
 🏠 Each group gets assigned a unique ID.
 
@@ -51,7 +51,7 @@ Congrats! In the step above you created a new group using the groupadd command. 
 
 💁🏾‍♂️ cat /etc/group
 
-As you can see all groups live in the /etc/group directory (in Linux a directory is the equivelent to a folder 🗂 in windows...but you know this already 🤓).
+As you can see all groups live in the /etc/group directory (in Linux a directory is the equivalent to a folder 🗂 in windows...but you know this already 🤓).
 
 
 ☞ "cat" 🙀 - The cat command reads data from the file and outputs the contents to your terminal.
@@ -111,6 +111,7 @@ Let's take a closer look 👀 at the format of this command:
 👉🏾 delgroup - command to delete group
 
 👉🏾 CloudAfteDark - the group name we want to delete
+
 
 
 
