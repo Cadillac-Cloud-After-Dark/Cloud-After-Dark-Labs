@@ -9,7 +9,7 @@ The goal of this readme is to give you a brief high level overview of Linux.
 
 Linux was initially created as an open source alternative to Unix. You’re probably asking now.. Well what is Unix? Good question. Unix is a proprietary operating system created by a small team employed by Bell Labs (owned by AT&T) led by Ken Thompson and Dennis Ritchie in the 1970s. Unix was derived from an operations system called [Multics]. Unix was considered as the first "portable" operating system mainly due to the fact it was written in the C programming language. Prior to Unix many operating systems were tied to physical hardware. 
 
-In 1983, [Richard Stallman] started the [GNU] project with the goal of creating a free opensource UNIX-like operating system. It wasn't until 1991 when [Linus Torvalds] started a project that later became Linux. 
+In 1983, [Richard Stallman] started the [GNU] project with the goal of creating a free open source UNIX-like operating system. It wasn't until 1991 when [Linus Torvalds] started a project that later became Linux. 
 
 ## Unix vs Linux
 
@@ -63,9 +63,9 @@ Most popular RPM supported flavors 💽:
 
 ## Linux boot process
 
-Every operating system starts with a boot process. A boot process can be defined as a sequence of events that occur in order for the operating system to be avaiable. Linux is no different. There are 6 stages in the Linux boot process. 
+Every operating system starts with a boot process. A boot process can be defined as a sequence of events that occur in order for the operating system to be available. Linux is no different. There are 6 stages in the Linux boot process. 
 
-👉🏾 BIOS - Basic Input/Output System. The BIOS is responsible for running the boot loader program and checking the hard drive. Once the boot loader program is identitied and loaded into the system memory the BIOS defers to the boot loader program.
+👉🏾 BIOS - Basic Input/Output System. The BIOS is responsible for running the boot loader program and checking the hard drive. Once the boot loader program is identified and loaded into the system memory the BIOS defers to the boot loader program.
 
 👉🏾 Master Boot Record - MBR stands for Master Boot Record. The MBR is responsible for loading and starting the GRUB boot loader.
 
@@ -83,16 +83,16 @@ Every operating system starts with a boot process. A boot process can be defined
 
 ## Why Linux is important
 
-Most of the tools that you are going to learn in these labs live on top of Linux. It's important to know basic commands because they bleed over into the commands you will need to know to use these "additional" tools. Also from an automation standpoint it is easy to pick up bash scripting if you already know some bash commands. In theory you are just adding some computer science conecpts on top of these shell commands in order to automate certain tasks. 
+Most of the tools that you are going to learn in these labs live on top of Linux. It's important to know basic commands because they bleed over into the commands you will need to know to use these "additional" tools. Also from an automation standpoint it is easy to pick up bash scripting if you already know some bash commands. In theory you are just adding some computer science concepts on top of these shell commands in order to automate certain tasks. 
 
-If you are going the DevOps route automating various process will be a part of your job. Although Bash scripting isn't an OOP (Object-oriented programming languge) it is still useful and powerful when it comes to automating in Linux/Unix.
+If you are going the DevOps route, automating various processes will be a part of your job. Although Bash scripting isn't an OOP (Object-oriented programming language) it is still useful and powerful when it comes to automating in Linux/Unix.
 
 
 ## Setting up your machine 🖥
 
 For these labs we will be using Ubuntu which is a Debian flavor of Linux (using an EC2 on AWS).
 
-If you don't have access to a command line system (mac) the eaisest way to get started is:
+If you don't have access to a command line system (mac) the easiest way to get started is:
 
 🔥Windows - Install Ubuntu [WSL] 
 
@@ -120,3 +120,5 @@ Happy learning!
 [Docker]: ,https://hub.docker.com/_/ubuntu.
 
  
+
+
